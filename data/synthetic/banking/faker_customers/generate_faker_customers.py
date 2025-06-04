@@ -1,4 +1,3 @@
-# /Users/jose/Projects/JoseNanez/ai-lab/data/synthetic/banking/faker_customers/generate_faker_customers.py
 import pandas as pd
 from faker import Faker
 import os
