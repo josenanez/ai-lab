@@ -1,7 +1,6 @@
-# 🧠 ai-lab 
-## Applied Artificial Intelligence
+# [josenanez.com](https://www.josenanez.com) - 🧠 AI-LAB · Applied Artificial Intelligence (XAI)
 
-Welcome to **AI Lab**, an open-space repository for sharing practical examples, reusable components, and real-world use cases of **Applied Artificial Intelligence**. This repository is part of the strategic verticals of [josenanez.com](https://www.josenanez.com).
+Welcome to **AI Lab**, an open-space repository for sharing practical examples, reusable components, and real-world use cases of **Applied Artificial Intelligence**. This repository is part of the strategic verticals of eXperiential AI (XAI).
 
 ---
 
