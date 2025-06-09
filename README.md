@@ -1,12 +1,33 @@
-# [JoseNanez.com](https://www.josenanez.com) - 🧠 AI-LAB · Applied Artificial Intelligence (XAI)
+<p align="center">
+  <img src="https://www.josenanez.com/assets/readme/jn-banner.png" alt="JÑ Consulting Banner" width="100%" />
+</p>
 
-Welcome to **AI Lab**, an open-space repository for sharing practical examples, reusable components, and real-world use cases of **Applied Artificial Intelligence**. This repository is part of the strategic verticals of eXperiential AI (XAI).
+<h1 align="center">AI-LAB · Applied Artificial Intelligence (XAI)</h1>
+<h3 align="left">
+  From <strong>Strategy</strong> to <strong>Code</strong><br/>
+  An open innovation lab by <a href="https://www.josenanez.com">JoseNanez.com</a>
+</h3>
+
+<p align="left">
+  <a href="https://www.josenanez.com/verticales/xai">Applied Artificial Intelligence (XAI)</a> ·
+</p>
+
+
+*by [JoseNanez.com](https://www.josenanez.com) — Strategy, Ethics & Intelligent Execution*
+
+Welcome to **AI-LAB**, the applied AI lab of JoseNanez.com, a consulting firm that helps organizations **translate strategy into working AI solutions**.
+
+This repository is part of our [Applied AI · XAI](https://www.josenanez.com/verticales/xai) vertical and contains practical agents, frameworks, and tools to automate real business challenges — ethically and at scale.
+
 
 ---
 
 ## 🎯 Purpose · From Strategy to Code
 
 AI-LAB exists to turn strategic decisions into real, working AI solutions.
+
+> "Applied AI is only valuable if it aligns with business, ethics, and execution."
+
 
 Our goal is to help organizations and innovation teams **design, build, and deploy applied AI**—from early discovery to production-ready systems—guided by business objectives, ethical frameworks, and modern cloud architectures.
 
@@ -32,7 +53,7 @@ Current modules under development:
 ai-lab/
 ├── agents/                     # Strategic generative agents for business processes
 ├── maturity-assessment/        # IA readiness diagnostic based on TRL methodology
-├── ml-models-business/         # Machine Learning models applied to real business challenges
+├── strategic-ml/         # Machine Learning models applied to real business challenges
 └── README.md
 ```
 ---
@@ -78,11 +99,16 @@ This repository is vendor-agnostic and modular by design. Depending on the modul
 ---
 
 ## 📖 License & Credits
-MIT License. Synthetic data provided for testing purposes only.
 
-> Built by José Ñáñez — [LinkedIn](https://linkedin.com/in/jfnanezg) | [josenanez.com](https://www.josenanez.com)
+This repository is distributed under the MIT License.
+
+> All synthetic data and models are provided for demonstration purposes only.  
+> For custom enterprise deployments, strategic evaluations, or advisory support, contact [José Ñáñez](https://www.josenanez.com/contact).
+
+Built by José Ñáñez — [LinkedIn](https://linkedin.com/in/jfnanezg) | [josenanez.com](https://www.josenanez.com)
 
 ---
 
 ## ⭐ Was this useful?
 Star the repo or share feedback. Contributions and suggestions are welcome!
+
